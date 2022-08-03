@@ -4,6 +4,7 @@ package com.phicommerce;
 
 public class SingletonD {
 private static SingletonD singletonObj;
+	int i;
 	
 	private SingletonD() {
 	
